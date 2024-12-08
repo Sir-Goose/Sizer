@@ -32,7 +32,7 @@ Installation
     Clone the repository:
     sh
 
-    git clone [your-github-repo-url-here]
+    git clone https://github.com/Sir-Goose/Sizer
     cd sizer
 
     Ensure Python 3 is installed on your system.
