@@ -1,7 +1,3 @@
-Here's a README.md for your Python script named sizer:
-
-markdown
-
 # Sizer - File Size Utility
 
 ## Overview
