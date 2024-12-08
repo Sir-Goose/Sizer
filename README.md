@@ -24,7 +24,6 @@ sh
 Output:
 If the file example.txt is 1234567 bytes, the output would be:
 
-example.txt
 1.234567 MB
 
 
@@ -65,17 +64,6 @@ get_bytes(file)
 
     Attempts to read the file size using os.path.getsize(). 
     Handles exceptions if the file cannot be read or does not exist.
-
-
-License
-[Choose a License - for example, MIT]
-
-Contributions
-Feel free to fork this project and submit pull requests. If you find any bugs or have suggestions for improvements, please open an issue.
-
-Author
-
-    Matthew Allison
 
 
 
