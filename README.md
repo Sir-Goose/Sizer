@@ -27,7 +27,7 @@ If the file example.txt is 1234567 bytes, the output would be:
 1.234567 MB
 
 ```
-Installation
+##Installation
 
 Clone the repository:
 
@@ -45,7 +45,7 @@ Requirements
     Python 3.x
 
 
-Functions
+##Functions
 main()
 
 Checks if the script is called with exactly one argument (the filename).
