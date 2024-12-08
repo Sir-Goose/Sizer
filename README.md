@@ -45,7 +45,7 @@ Requirements
     Python 3.x
 
 
-##Functions
+## Functions
 main()
 
 Checks if the script is called with exactly one argument (the filename).
