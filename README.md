@@ -30,14 +30,12 @@ If the file example.txt is 1234567 bytes, the output would be:
 Installation
 
     Clone the repository:
-    sh
 
     git clone https://github.com/Sir-Goose/Sizer
     cd sizer
 
     Ensure Python 3 is installed on your system.
     Make the script executable (on Unix-like systems):
-    sh
 
     chmod +x sizer
 
