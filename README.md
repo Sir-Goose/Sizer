@@ -29,13 +29,13 @@ If the file example.txt is 1234567 bytes, the output would be:
 ```
 Installation
 
-    Clone the repository:
+Clone the repository:
 
     git clone https://github.com/Sir-Goose/Sizer
     cd sizer
 
-    Ensure Python 3 is installed on your system.
-    Make the script executable (on Unix-like systems):
+Ensure Python 3 is installed on your system.
+Make the script executable (on Unix-like systems):
 
     chmod +x sizer
 
@@ -48,17 +48,17 @@ Requirements
 Functions
 main()
 
-    Checks if the script is called with exactly one argument (the filename).
-    Calls get_bytes() to retrieve the file size.
-    Formats the size using format() and prints it.
+Checks if the script is called with exactly one argument (the filename).
+Calls get_bytes() to retrieve the file size.
+Formats the size using format() and prints it.
 
 
 format(num_bytes)
 
-    Converts byte size into a human-readable format (e.g., KB, MB, GB).
+Converts byte size into a human-readable format (e.g., KB, MB, GB).
 
 
 get_bytes(file)
 
-    Attempts to read the file size using os.path.getsize(). 
-    Handles exceptions if the file cannot be read or does not exist.
+Attempts to read the file size using os.path.getsize(). 
+Handles exceptions if the file cannot be read or does not exist.
