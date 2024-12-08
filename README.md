@@ -26,7 +26,7 @@ If the file example.txt is 1234567 bytes, the output would be:
 
 1.234567 MB
 
-
+```
 Installation
 
     Clone the repository:
@@ -64,7 +64,3 @@ get_bytes(file)
 
     Attempts to read the file size using os.path.getsize(). 
     Handles exceptions if the file cannot be read or does not exist.
-
-
-
-Make sure to replace `[your-github-repo-url-here]` with the actual URL of your GitHub repository. Also, choose an appropriate license if you decide to make your project open-source.
